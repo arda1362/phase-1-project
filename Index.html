@@ -1,11 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <title>Newton API SPA</title>
+  <style>
+    #result {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+  </style>
+  <link rel="stylesheet" href="path/to/your/styles.css">
 </head>
 <body>
-    
+  <h1>Newton API SPA</h1>
+  <label for="operation">Operation:</label>
+  <select id="operation">
+    <option value="simplify">Simplify</option>
+    <option value="factor">Factor</option>
+    <option value="derive">Derive</option>
+    <option value="integrate">Integrate</option>
+    <option value="zeroes">Find 0's</option>
+    <option value="tangent">Find Tangent</option>
+    <option value="area">Area Under Curve</option>
+    <option value="cos">Cosine</option>
+    <option value="sin">Sine</option>
+    <option value="tan">Tangent</option>
+    <option value="arccos">Inverse Cosine</option>
+    <option value="arcsin">Inverse Sine</option>
+    <option value="arctan">Inverse Tangent</option>
+    <option value="abs">Absolute Value</option>
+    <option value="log">Logarithm</option>
+  </select>
+  <br>
+  <label for="expression">Expression:</label>
+  <input type="text" id="expression" placeholder="Enter math expression">
+  <button onclick="performOperation()">Perform Operation</button>
+  <div id="result"></div>
+
+  <script src="index.js"></script>
 </body>
 </html>
