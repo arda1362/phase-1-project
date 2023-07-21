@@ -4,6 +4,7 @@ my flatiron phase1 project
 Instructions:
 
 Newton
+
 A really micro micro-service for advanced math.
 Newton does anything from numerical calculation to symbolic math parsing.
 
@@ -35,12 +36,10 @@ Note: operation is the math operation that you want to perform. : expression is 
 
 That's it! You'll be returned a JSON object with the operation you requested, the expression you provided, and the result of the operation performed on the expression.
 
-Some examples of view available endpoints:
+examples of view available endpoints:
 
-Operation	     API Endpoint	              Result
-Simplify	   /simplify/2^2+2(2)	            8
-Factor	     /factor/x^2 + 2x         	x (x + 2)
-Derive      	/derive/x^2+2x	           2 x + 2
+![image](https://github.com/arda1362/phase-1-project/assets/126632174/958b9a92-dfbe-4c23-818b-a9818a78f20c)
+
 
 Keep in mind: To find the tangent line of a function at a certain x value, send the request as c|f(x) where c is the given x value and f(x) is the function expression, the separator is a vertical bar '|'. See the table above for an example request.
 
