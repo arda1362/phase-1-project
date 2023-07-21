@@ -1,6 +1,8 @@
 # phase-1-project
 my flatiron phase1 project
 
+Instructions:
+
 Newton
 A really micro micro-service for advanced math.
 Newton does anything from numerical calculation to symbolic math parsing.
@@ -46,5 +48,12 @@ To find the area under a function, send the request as c:d|f(x) where c is the s
 
 To compute fractions, enter expressions as the numerator(over)denominator. For example, to process 2/4 you must send in your expression as 2(over)4. The result expression will be in standard math notation (1/2, 3/4).
 
-Licensed under the GNU GPLv3 license.
+Completed Project Goals:
+- Fetches from public API
+- At least 3 event listeners included: 'click',  'keypress' and 'mouseleave'
+- Each event listener should have its own unique callback function
+- API should return a collection of at least 5 objects with each object having at least 3 attributes
+ 
+Sources used: https://newton.vercel.app, Logo from https://calculator-online.net and background from https://banner2.cleanpng.com/
+This project was created for my Phase 1 project for Flatiron School.
 
