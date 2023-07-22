@@ -55,4 +55,3 @@ Completed Project Goals:
  
 Sources used: https://newton.vercel.app, Logo from https://calculator-online.net and background from https://banner2.cleanpng.com/
 This project was created for my Phase 1 project for Flatiron School.
-
