@@ -29,7 +29,7 @@ It's that simple!
 
 
 Get Started
-
+"C:\Users\ardav\Downloads\Untitled video - Made with Clipchamp.gif"
 Send a GET request to Newton.
 https://newton.now.sh/api/v2/:operation/:expression
 Note: operation is the math operation that you want to perform. : expression is the URL-encoded math expression on which you want to operate. View available operation endpoints below!
