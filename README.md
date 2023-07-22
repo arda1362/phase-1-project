@@ -30,7 +30,8 @@ It's that simple!
 
 Get Started
 
-Newton.gif
+![Newton](https://github.com/arda1362/phase-1-project/assets/126632174/700047ef-6da5-426a-9d9b-dd447ee8bddc)
+
 
 Send a GET request to Newton.
 https://newton.now.sh/api/v2/:operation/:expression
