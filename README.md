@@ -30,7 +30,8 @@ It's that simple!
 
 Get Started
 
-/home/aran/development/code/ph1-java/project/phase-1-project/newtons-method.png
+Newton.gif
+
 Send a GET request to Newton.
 https://newton.now.sh/api/v2/:operation/:expression
 Note: operation is the math operation that you want to perform. : expression is the URL-encoded math expression on which you want to operate. View available operation endpoints below!
