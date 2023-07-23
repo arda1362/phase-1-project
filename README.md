@@ -56,6 +56,7 @@ Completed Project Goals:
 - At least 3 event listeners included: 'click',  'keypress' and 'mouseleave'
 - Each event listener should have its own unique callback function
 - API should return a collection of at least 5 objects with each object having at least 3 attributes
+-  Interacting with your API data in some way should present an opportunity to use array iteration.
  
 Sources used: https://newton.vercel.app, Logo from https://calculator-online.net and background from https://banner2.cleanpng.com/
 This project was created for my Phase 1 project for Flatiron School.
