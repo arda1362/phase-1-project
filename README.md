@@ -28,16 +28,17 @@ Now, we get the following response:
 It's that simple!
 
 
-Get Started
-
-![Newton](https://github.com/arda1362/phase-1-project/assets/126632174/700047ef-6da5-426a-9d9b-dd447ee8bddc)
+![Newton](https://github.com/arda1362/phase-1-project/assets/126632174/de218f65-87b4-47fb-99d8-5b581d834b3b)
 
 
-Send a GET request to Newton.
+
+1. Send a GET request to Newton.
+
 https://newton.now.sh/api/v2/:operation/:expression
-Note: operation is the math operation that you want to perform. : expression is the URL-encoded math expression on which you want to operate. View available operation endpoints below!
 
-That's it! You'll be returned a JSON object with the operation you requested, the expression you provided, and the result of the operation performed on the expression.
+Note: :operation is the math operation that you want to perform. :expression is the url-encoded math expression on which you want to operate. View available operation endpoints below!
+
+2. That's it! You'll be returned a JSON object with the operation you requested, the expression you provided, and the result of the operation performed on the expression.
 
 examples of view available endpoints:
 
