@@ -37,9 +37,13 @@ Blurred logo effect on mouse leave for a visually appealing experience.
 Technologies
 
 *HTML
+
 *CSS
+
 *JavaScript
+
 *Fetch API
+
 
 Setup
 
