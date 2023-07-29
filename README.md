@@ -8,13 +8,21 @@ Newton API SPA is a single-page web application that utilizes the Newton API to 
 Table of Contents
 
 -Introduction
+
 -Features
+
 -Technologies
+
 -Setup
+
 -Usage
+
 -API Reference
+
 -Contribution
+
 -License
+
 
 Introduction
 
